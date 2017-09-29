@@ -7,7 +7,7 @@ import os
 import numpy
 from six.moves import urllib
 from six.moves import xrange  # pylint: disable=redefined-builtin
-#my add 
+#my add the second
 SOURCE_URL = 'http://yann.lecun.com/exdb/mnist/'
 def maybe_download(filename, work_directory):
   """Download the data from Yann's website, unless it's already here."""
